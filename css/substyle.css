@@ -33,6 +33,9 @@ button {
   border: none;
   outline: none;
 }
+.hidden {
+  display: none;
+}
 .section {
   padding: 50px;
   margin: auto;
